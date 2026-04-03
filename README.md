@@ -1,6 +1,6 @@
 <div align="center">
 
-
+#  LeetCode Journey
 
 <p>
 Solving problems daily, learning from mistakes, and getting better at <b>Data Structures & Algorithms</b> one step at a time.
