@@ -1,0 +1,17 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
+class Solution {
+public:
+    string toLowerCase(string s) {
+        for(int i=0;i<s.length();i++)
+        {
+           if(s[i]>='A' and s[i]<='Z')
+           {
+            s[i]=s[i]+32;
+           } 
+        }
+        return s;
+    }
+};
