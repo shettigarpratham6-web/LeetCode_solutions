@@ -26,4 +26,16 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
