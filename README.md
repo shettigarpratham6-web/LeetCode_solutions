@@ -20,6 +20,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -43,4 +44,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
