@@ -34,6 +34,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
