@@ -58,4 +58,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
+## String
+|  |
+| ------- |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
