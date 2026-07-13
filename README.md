@@ -30,10 +30,12 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Two Pointers
@@ -73,4 +75,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
