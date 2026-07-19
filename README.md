@@ -26,6 +26,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0746-min-cost-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
@@ -40,6 +41,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [1952-three-divisors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -93,6 +95,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
