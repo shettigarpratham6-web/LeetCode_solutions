@@ -20,6 +20,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -102,5 +103,6 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
