@@ -55,6 +55,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2413-smallest-even-multiple) |
+| [3280-convert-date-to-binary](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3280-convert-date-to-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Two Pointers
@@ -90,6 +91,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3280-convert-date-to-binary](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3280-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
