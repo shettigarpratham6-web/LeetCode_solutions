@@ -22,6 +22,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0001-two-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
@@ -88,6 +89,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
@@ -98,6 +100,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Heap (Priority Queue)
 |  |
