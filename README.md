@@ -25,6 +25,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
+| [0135-candy](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0198-house-robber) |
@@ -76,6 +77,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0135-candy) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
