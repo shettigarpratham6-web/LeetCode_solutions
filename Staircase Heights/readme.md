@@ -35,7 +35,7 @@ Input:  difficulty = [3, 1, 2, 4, 2]
 Output: 11
 
 difficulty = [3,  1,  2,  4,  2]
-blocks     = [2,  1,  2,  3,  1]  →  sum = 11
+blocks     = [2,  1,  2,  3,  1]  →  sum = 9
 ```
 
 ### Example 2
@@ -70,7 +70,7 @@ Only one step, gets the minimum 1 block.
 
 | # | Input | Output | Type |
 |---|---|---|---|
-| 1 | `[3, 1, 2, 4, 2]` | `11` | General |
+| 1 | `[3, 1, 2, 4, 2]` | `9` | General |
 | 2 | `[1, 0, 2]` | `5` | Valley |
 | 3 | `[1, 2, 2]` | `4` | Equal adjacent |
 | 4 | `[1]` | `1` | Single element |
