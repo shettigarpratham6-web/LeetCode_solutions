@@ -34,6 +34,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0416-partition-equal-subset-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -53,11 +54,13 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
@@ -152,4 +155,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
