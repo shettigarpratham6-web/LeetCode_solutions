@@ -144,6 +144,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -169,4 +170,16 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
