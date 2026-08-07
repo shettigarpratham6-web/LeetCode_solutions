@@ -144,6 +144,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
 ## Trie
@@ -173,13 +174,16 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
