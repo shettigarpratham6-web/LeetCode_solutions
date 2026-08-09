@@ -176,14 +176,25 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
