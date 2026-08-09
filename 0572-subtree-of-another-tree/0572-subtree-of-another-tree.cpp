@@ -12,18 +12,17 @@
 class Solution {
 public:
     bool isSametree(TreeNode* s, TreeNode* t) {
-        if(s == nullptr && t == nullptr)
+        if(s==nullptr and t==nullptr)
         {
             return true;
         }
-        else if(s == nullptr || t == nullptr)
+        else if(s==nullptr || t==nullptr)
         {
             return false;
         }
         else if(s->val == t->val)
         {
-            return isSametree(s->left, t->left) && 
-                   isSametree(s->right, t->right);
+            return isSametree(s->left,t->left) && isSametree(s->right,t->right);
         }
         else
         {
@@ -32,18 +31,17 @@ public:
     }
 
     bool isSubtree(TreeNode* s, TreeNode* t) {
-        if(s == nullptr)
+        if(s==nullptr)
         {
             return false;
         }
-        else if(isSametree(s, t))
+        else if(isSametree(s,t))
         {
             return true;
         }
         else
         {
-            return isSubtree(s->left, t) || 
-                   isSubtree(s->right, t);
+            return isSubtree(s->left,t) || isSubtree(s->right,t);
         }
     }
 };
