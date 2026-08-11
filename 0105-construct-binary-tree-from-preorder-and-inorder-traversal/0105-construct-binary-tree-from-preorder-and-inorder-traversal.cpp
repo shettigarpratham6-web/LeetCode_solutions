@@ -11,27 +11,26 @@
  */
 class Solution {
 public:
-unordered_map<int,int>pos;
-int pre=0;
-
-TreeNode* build(vector<int>&preorder,int l,int r)
-{
-      if (l>r)
-      {
+  unordered_map<int,int>pos;
+  int pre=0;
+  TreeNode* build(vector<int>& preorder,int l,int r)
+  {
+    if(l>r)
+    {
         return nullptr;
-      }
-      int rootVal=preorder[pre++];
-      TreeNode* root=new TreeNode(rootVal);
-      int mid=pos[rootVal];
-      root->left=build(preorder,l,mid-1);
-      root->right=build(preorder,mid+1,r);
-      return root;
-}
+    }
+    int rootVal=preorder[pre++];
+    TreeNode* root=new TreeNode(rootVal);
+    int mid=pos[rootVal];
+    root->left=build(preorder,l,mid-1);
+    root->right=build(preorder,mid+1,r);
+    return root;
+  }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int size=inorder.size();
         for(int i=0;i<size;i++)
         {
-       pos[inorder[i]]=i;
+         pos[inorder[i]]=i;
         }
         return build(preorder,0,inorder.size()-1);
     }
