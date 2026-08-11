@@ -25,6 +25,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -138,6 +139,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
@@ -175,6 +177,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -187,6 +190,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -197,4 +201,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
