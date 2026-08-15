@@ -41,6 +41,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Heap (Priority Queue)
 |  |
