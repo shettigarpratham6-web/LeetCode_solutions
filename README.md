@@ -63,6 +63,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0062-unique-paths](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -169,10 +171,12 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -216,4 +220,12 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
