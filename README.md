@@ -30,6 +30,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -106,6 +107,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String
@@ -154,6 +156,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0100-same-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
 ## Trie
@@ -197,6 +200,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0100-same-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -228,4 +232,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
