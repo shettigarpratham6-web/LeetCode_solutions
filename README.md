@@ -22,6 +22,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0001-two-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
@@ -236,4 +237,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
