@@ -23,6 +23,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0001-two-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
@@ -148,6 +149,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
