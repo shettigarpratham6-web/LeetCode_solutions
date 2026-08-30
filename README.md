@@ -35,6 +35,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0198-house-robber](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -67,6 +68,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0062-unique-paths](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1952-three-divisors) |
@@ -97,6 +99,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0015-3sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
@@ -152,6 +155,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0041-first-missing-positive](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
@@ -245,4 +249,9 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
