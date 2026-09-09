@@ -27,6 +27,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0135-candy) |
@@ -83,6 +84,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -100,6 +102,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0015-3sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -272,4 +275,12 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
