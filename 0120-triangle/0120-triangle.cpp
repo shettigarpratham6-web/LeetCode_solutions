@@ -10,5 +10,6 @@ public:
             }
         }
         return triangle[0][0];
+        
     }
 };
