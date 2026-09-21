@@ -41,6 +41,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0239-sliding-window-maximum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0724-find-pivot-index) |
@@ -66,6 +67,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0198-house-robber](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
@@ -99,6 +101,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0135-candy](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
@@ -115,6 +118,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -261,6 +265,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0033-search-in-rotated-sorted-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
