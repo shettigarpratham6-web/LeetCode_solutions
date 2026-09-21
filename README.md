@@ -47,6 +47,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0746-min-cost-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -260,6 +261,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0033-search-in-rotated-sorted-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
