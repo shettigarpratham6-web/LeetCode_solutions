@@ -21,7 +21,7 @@ public:
 
 class Solution {
 public:
-   unordered_map<Node*,Node*>mp;
+unordered_map<Node*,Node*>mp;
 
     Node* cloneGraph(Node* node) {
         if(node==nullptr)
@@ -31,15 +31,14 @@ public:
         if(mp.find(node)!=mp.end())
         {
             return mp[node];
-        }
-        Node* clone = new Node(node->val);
-        mp[node] = clone;
-
-            for (Node* neigh : node->neighbors) {
+        } 
+        Node* clone=new Node(node->val);
+        mp[node]=clone;
+        for(Node* neigh:node->neighbors)
+        {
             clone->neighbors.push_back(cloneGraph(neigh));
+        }
+        return clone;
 
-            
-            }
-            return clone;
     }
 };
