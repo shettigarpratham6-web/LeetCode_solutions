@@ -31,7 +31,7 @@ unordered_map<Node*,Node*>mp;
         if(mp.find(node)!=mp.end())
         {
             return mp[node];
-        } 
+        }
         Node* clone=new Node(node->val);
         mp[node]=clone;
         for(Node* neigh:node->neighbors)
@@ -39,6 +39,5 @@ unordered_map<Node*,Node*>mp;
             clone->neighbors.push_back(cloneGraph(neigh));
         }
         return clone;
-
     }
 };
