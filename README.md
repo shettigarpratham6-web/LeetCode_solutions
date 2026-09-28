@@ -47,6 +47,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0566-reshape-the-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -129,6 +130,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String
@@ -142,6 +144,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Heap (Priority Queue)
