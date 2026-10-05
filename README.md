@@ -61,6 +61,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0120-triangle) |
@@ -91,6 +92,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
@@ -136,6 +138,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3280-convert-date-to-binary) |
@@ -308,4 +311,8 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0133-clone-graph) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
