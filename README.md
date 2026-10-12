@@ -56,6 +56,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -182,6 +185,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0217-contains-duplicate](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
@@ -279,6 +283,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
