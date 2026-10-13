@@ -16,7 +16,6 @@ public:
             }
             sum=sum+i;
             count++;
-
         }
         return count;
     }
