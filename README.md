@@ -34,6 +34,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0135-candy](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0213-house-robber-ii) |
@@ -283,6 +284,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
