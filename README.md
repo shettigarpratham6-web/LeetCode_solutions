@@ -53,6 +53,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -85,6 +86,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1952-three-divisors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2396-strictly-palindromic-number) |
@@ -111,6 +113,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0135-candy](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -123,6 +126,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -218,6 +222,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | ------- |
 | [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Minimax
 |  |
 | ------- |
