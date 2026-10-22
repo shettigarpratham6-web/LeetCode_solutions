@@ -59,6 +59,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3731-find-missing-elements) |
@@ -298,6 +299,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Queue
 |  |
 | ------- |
