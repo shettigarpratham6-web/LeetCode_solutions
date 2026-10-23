@@ -55,6 +55,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1929-concatenation-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -159,6 +160,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0054-spiral-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
