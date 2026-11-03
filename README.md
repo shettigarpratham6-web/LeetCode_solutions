@@ -44,6 +44,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0322-coin-change](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0724-find-pivot-index) |
