@@ -53,6 +53,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -90,6 +91,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0268-missing-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1952-three-divisors](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
