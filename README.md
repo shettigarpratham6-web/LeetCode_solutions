@@ -157,6 +157,7 @@ Solving problems daily, learning from mistakes, and getting better at <b>Data St
 | [0139-word-break](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/0139-word-break) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3280-convert-date-to-binary) |
+| [3798-largest-even-number](https://github.com/shettigarpratham6-web/LeetCode_solutions/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
 | ------- |
