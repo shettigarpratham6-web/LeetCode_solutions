@@ -18,10 +18,7 @@ public:
                 arr[i]=max(arr[i],arr[i+1]+1);
             }
         }
-        for(int i=0;i<n;i++)
-        {
-            sum=sum+arr[i];
-        }
-        return sum;
+     sum=accumulate(arr.begin(),arr.end(),0);
+     return sum;
     }
 };
